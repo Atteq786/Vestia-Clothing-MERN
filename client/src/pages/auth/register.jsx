@@ -10,3 +10,5 @@ function authRegister(){
     </div>
     )
 }
+
+export default authRegister;
