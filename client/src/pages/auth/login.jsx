@@ -9,3 +9,4 @@ function authLogin(){
     </div>
     )
 }
+export default authLogin
